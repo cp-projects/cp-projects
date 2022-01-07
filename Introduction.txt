@@ -2,6 +2,4 @@ Hello, I am a university student trying to learn data science and ML. The main p
 
   
 
-If you are a more experienced programmer or data scientist with similar interests, I would love to hear any critiques or edits of my code! I understand I have a lot to learn and will be very appreciative and receptive to any advice you are kind enough to give me. 
-
-Testing Testing 123
+If you are a more experienced programmer or data scientist with similar interests, I would love to hear any critiques or edits of my code! I understand I have a lot to learn and will be very appreciative and receptive to any advice you are kind enough to give me.
